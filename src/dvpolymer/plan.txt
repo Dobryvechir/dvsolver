@@ -1,0 +1,23 @@
+1.1 Make detailed meshing
+1.2 make special program for reducing upper layer (1 dimension)
+by table - time, thickness
+1.3 make csv and svg saving in the structures 
+1.4. Learn algorithms for progonka
+  when going further MTC and NOFLOW, MID is considered
+  with regard to NOFLOW/CONSTANT/MTC/MID and L,P,C
+  and implement them, XY, X, ZR, Z
+
+2. make writing output as temperature vs time with legend in colors with svg
+
+Separate work:
+3. make x and y line by line passages
+4. setup time and time step by external program
+5. calculate the hottest temperature and collect in time
+6. calculate Kondratiev 
+7. organize reading config (args[1]) and saving K and other info to file
+8. walking by folders
+9. make preparations for specific to read and place and calculate
+  cone
+  T -like, 
+  E-like
+

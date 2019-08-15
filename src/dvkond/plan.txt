@@ -1,0 +1,19 @@
+0. Equipment to be bought: $800
+ https://store.zotac.com/qk5p1000-zbox-qk5p1000-u  
+1. Configuration
+  The config file dvkond.conf is stored in the current folder
+  from where the launch is done.
+  If there is no such file in the current folder, it is looked
+  in the folder where the program is located.
+  If no configuration file, all defaults are assumed.
+
+  In config we need to specify the parameters as follows:
+  baseFolder - 
+
+External program creates tasks
+
+
+we need to have 2 folders:
+/tasks
+/kondk
+we are looping in two classess

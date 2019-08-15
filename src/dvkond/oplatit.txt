@@ -1,0 +1,25 @@
+Имя получателя
+Alipay Singapore E-Commerce Pte Ltd
+
+Банк получателя
+CITIBANK N.A., SINGAPORE BRANCH
+
+Номер счёта получателя
+026091961226445
+Этот номер счёта получателя действителен ТОЛЬКО для данного платежа. Пожалуйста, НЕ используйте этот номер в других платежах.
+
+Адрес банка получателя
+3 Temasek Avenue, #11-00 Centennial Tower, Singapore 039190
+
+Код SWIFT банка получателя
+CITISGSG
+Если вашему банку требуется 11 символов, используйте: “CITISGSGXXX”
+
+Номер телефона банка получателя
++65-6224-2622
+
+Адрес электронной почты получателя
+singapore.citiservice@citi.com
+
+Адрес получателя
+10 Collyer Quay, #10-01 Ocean Financial Centre, Singapore 049315.

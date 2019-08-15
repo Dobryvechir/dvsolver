@@ -1,0 +1,23 @@
+{
+    "radius": 0.05,
+    "steelL": 20,
+    "steelC": 570,
+    "steelP": 7600,
+    "polymerL": 20,
+    "polymerC": 570,
+    "polymerP": 760,
+    "quenchingT": 20,
+    "mesh": 20,
+    "timeStep": 0.1,
+    "timeShow": 0.5,
+    "graphTimeStep": 0.5,
+    "graphXStep": 0.01,
+    "points": [0, 50, 100],  
+    "startTemperature": 860, 
+    "htc": 4000,
+    "layer": [
+         [0,    0.005],
+         [20,   0],
+         [50,   0]
+    ] 
+}
